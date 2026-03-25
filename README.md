@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/26247900/ReadMe.md)
 # 💫 About Me:
 Full Stack Developer | AI Engineer | AI and Data Science undergrad<br>Passionate about creating Full Stack Web Application with AI integration<br>Currently exploring the world of Artificial Intelligence and its use cases.. <br><br>Ask me about AI Workflows, AI Agents and Automation.<br>
 
