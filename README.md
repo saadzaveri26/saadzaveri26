@@ -127,9 +127,9 @@ I am an innovative AI & Data Science Engineering student bridging the gap betwee
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=tokyo-night&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=tokio-night&area=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadzaveri26&theme=tokyonight&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saadzaveri26&theme=tokyonight&no-bg=true&margin-w=15&column=5)
 
 ## 🏆 Competitive Programming & Validation
 *   **LeetCode:** Core Algorithm Optimization & Data Structures Solver | Profile: [Saadzaveri26](https://leetcode.com/Saadzaveri26)
