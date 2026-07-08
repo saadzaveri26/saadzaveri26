@@ -411,7 +411,7 @@ An interactive machine learning platform orchestrating complex data pipelines an
 <!-- GitHub Streak -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="60%" src="https://github-readme-streak-stats-eight-theta.vercel.app/?user=saadzaveri26&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
+    <img width="60%" src="https://streak-stats.demolab.com/?user=saadzaveri26&theme=radical&hide_border=true&border_radius=12&cb=2" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -426,28 +426,6 @@ An interactive machine learning platform orchestrating complex data pipelines an
 <p>
   <a href="https://github.com/saadzaveri26">
     <img width="98%" src="https://github-trophies.vercel.app/?username=saadzaveri26&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<!-- Profile Summary Cards -->
-<p>
-  <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadzaveri26&theme=2077" alt="Profile Details" />
-  </a>
-  <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadzaveri26&theme=2077&utcOffset=5.5" alt="Productive Time" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/saadzaveri26">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadzaveri26&theme=2077" alt="Repos per Language" />
-  </a>
-  <a href="https://github.com/saadzaveri26">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadzaveri26&theme=2077" alt="Most Commit Language" />
-  </a>
-  <a href="https://github.com/saadzaveri26">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadzaveri26&theme=2077" alt="Stats" />
   </a>
 </p>
 
