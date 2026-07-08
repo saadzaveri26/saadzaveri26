@@ -123,21 +123,13 @@ I am an innovative AI & Data Science Engineering student bridging the gap betwee
 
 ## 📈 Technical Metrics & Activity
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saadzaveri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadzaveri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&v=2)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=tokyo-night&area=true&hide_border=true)
 
-<br />
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=tokio-night&hide_border=true&v=2)
-
-<br />
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadzaveri26&theme=tokyonight&hide_border=true&v=2)
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadzaveri26&theme=tokyonight&hide_border=true)
 
 ## 🏆 Competitive Programming & Validation
 *   **LeetCode:** Core Algorithm Optimization & Data Structures Solver | Profile: [Saadzaveri26](https://leetcode.com/Saadzaveri26)
