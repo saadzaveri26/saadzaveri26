@@ -127,9 +127,15 @@ I am an innovative AI & Data Science Engineering student bridging the gap betwee
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=tokio-night&area=true&hide_border=true)
+<br />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saadzaveri26&theme=tokyonight&no-bg=true&margin-w=15&column=5)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=tokyo-night&area=true&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=2ac3de" width="100%" alt="Muhammed Saad Zaveri's Contribution Graph" />
+
+<br /><br />
+
+### 🐍 Contribution Snake Animation
+
+![Snake Animation](https://raw.githubusercontent.com/saadzaveri26/saadzaveri26/output/github-contribution-grid-snake.svg)
 
 ## 🏆 Competitive Programming & Validation
 *   **LeetCode:** Core Algorithm Optimization & Data Structures Solver | Profile: [Saadzaveri26](https://leetcode.com/Saadzaveri26)
