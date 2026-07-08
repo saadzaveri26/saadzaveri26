@@ -401,10 +401,10 @@ An interactive machine learning platform orchestrating complex data pipelines an
 <!-- GitHub Stats & Top Languages -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saadzaveri26&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=saadzaveri26&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=10" alt="Top Languages" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
