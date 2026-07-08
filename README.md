@@ -4,25 +4,25 @@
 <!-- HERO SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Muhammed%20Saad%20Zaveri&fontSize=42&fontColor=c0caf5&fontAlignY=35&desc=AI%20Generalist%20Expert%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descSize=16&descColor=a9b1d6&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:fe428e,70:a855f7,100:00d4ff&height=230&section=header&text=Muhammed%20Saad%20Zaveri&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20AI%20%26%20Data%20Science&descSize=17&descColor=a9fef7&descAlignY=56&animation=twinkling" width="100%" />
 
 <!-- Animated Typing Banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+AI+Generalist+Expert+%40+Mercor.io;%F0%9F%A7%A0+Next.js+%7C+TypeScript+%7C+Python+%7C+Agentic+Workflows;%E2%9A%A1+LangChain+%7C+LangGraph+%7C+Vercel+AI+SDK+%7C+RAG;%F0%9F%94%90+Cybersecurity+Minor+%7C+AI+%26+Data+Science+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Building+Intelligent+Systems+That+Matter;%F0%9F%A7%A0+Next.js+%7C+TypeScript+%7C+Python+%7C+Agentic+Workflows;%E2%9A%A1+LangChain+%7C+LangGraph+%7C+Vercel+AI+SDK+%7C+RAG;%F0%9F%94%90+Cybersecurity+Minor+%7C+AI+%26+Data+Science+Undergrad" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Visitor Counter & Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=saadzaveri26&label=Profile+Views&color=7aa2f7&style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saadzaveri26&label=Profile+Views&color=fe428e&style=for-the-badge&logo=github" alt="Profile Views" />
   &nbsp;
   <a href="https://github.com/saadzaveri26?tab=followers">
-    <img src="https://img.shields.io/github/followers/saadzaveri26?label=Followers&style=for-the-badge&color=bb9af7&logo=github&logoColor=c0caf5" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/saadzaveri26?label=Followers&style=for-the-badge&color=a855f7&logo=github&logoColor=white" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/saadzaveri26?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-Active-7dcfff?style=for-the-badge&logo=github&logoColor=c0caf5" alt="Repos" />
+    <img src="https://img.shields.io/badge/Public%20Repos-Active-00d4ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff007c?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
@@ -401,62 +401,55 @@ An interactive machine learning platform orchestrating complex data pipelines an
 <!-- GitHub Stats & Top Languages -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saadzaveri26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&ring_color=7aa2f7&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saadzaveri26&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=10" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
 <!-- GitHub Streak -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadzaveri26&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="GitHub Streak" />
+    <img width="60%" src="https://streak-stats.demolab.com/?user=saadzaveri26&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
   </a>
 </p>
 
 <!-- Activity Graph -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=tokyo-night&hide_border=true&radius=12&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ff9e64&area=true&area_color=7aa2f7" alt="Activity Graph" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=rogue&hide_border=true&radius=12&area=true" alt="Activity Graph" />
   </a>
 </p>
 
 <!-- GitHub Trophies -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=saadzaveri26&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=saadzaveri26&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </p>
 
 <!-- Profile Summary Cards -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadzaveri26&theme=tokyonight" alt="Profile Details" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadzaveri26&theme=radical" alt="Profile Details" />
   </a>
   <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadzaveri26&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadzaveri26&theme=radical&utcOffset=5.5" alt="Productive Time" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadzaveri26&theme=tokyonight" alt="Repos per Language" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadzaveri26&theme=radical" alt="Repos per Language" />
   </a>
   <a href="https://github.com/saadzaveri26">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadzaveri26&theme=tokyonight" alt="Most Commit Language" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadzaveri26&theme=radical" alt="Most Commit Language" />
   </a>
   <a href="https://github.com/saadzaveri26">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadzaveri26&theme=tokyonight" alt="Stats" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadzaveri26&theme=radical" alt="Stats" />
   </a>
 </p>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saadzaveri26/saadzaveri26/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saadzaveri26/saadzaveri26/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/saadzaveri26/saadzaveri26/output/github-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
@@ -477,45 +470,45 @@ An interactive machine learning platform orchestrating complex data pipelines an
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/AI_Agents-7aa2f7?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/AI_Agents-fe428e?style=for-the-badge&logoColor=white" /><br/>
 <sub>Autonomous task planning,<br/>tool use & reasoning</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/LLM_Engineering-bb9af7?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/LLM_Engineering-a855f7?style=for-the-badge&logoColor=white" /><br/>
 <sub>Fine-tuning, RLHF,<br/>prompt engineering</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/RAG_Systems-ff9e64?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/RAG_Systems-f8d847?style=for-the-badge&logoColor=black" /><br/>
 <sub>Vector stores, embeddings,<br/>retrieval pipelines</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Multi_Agent_Systems-9ece6a?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Multi_Agent_Systems-a9fef7?style=for-the-badge&logoColor=black" /><br/>
 <sub>Agent orchestration,<br/>collaboration protocols</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Agentic_AI-f7768e?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Agentic_AI-ff007c?style=for-the-badge&logoColor=white" /><br/>
 <sub>Autonomous workflows,<br/>self-improving agents</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/System_Design-7dcfff?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/System_Design-00d4ff?style=for-the-badge&logoColor=black" /><br/>
 <sub>Distributed architecture,<br/>scalability patterns</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Cloud_Native-73daca?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Cloud_Native-a855f7?style=for-the-badge&logoColor=white" /><br/>
 <sub>Serverless, microservices,<br/>service mesh</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/In_Browser_IDEs-326CE5?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/In_Browser_IDEs-fe428e?style=for-the-badge&logoColor=white" /><br/>
 <sub>WebContainers,<br/>WebAssembly runtimes</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Cybersecurity-e0af68?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Cybersecurity-f8d847?style=for-the-badge&logoColor=black" /><br/>
 <sub>Security practices,<br/>OWASP & secure coding</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Workflow_Automation-2ac3de?style=for-the-badge&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Workflow_Automation-00d4ff?style=for-the-badge&logoColor=black" /><br/>
 <sub>n8n, Inngest,<br/>event-driven workflows</sub>
 </td>
 </tr>
@@ -593,7 +586,7 @@ An interactive machine learning platform orchestrating complex data pipelines an
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%"/>
 
 <br/><br/>
 
@@ -609,11 +602,11 @@ An interactive machine learning platform orchestrating complex data pipelines an
 <!-- Support -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img src="https://img.shields.io/badge/If_you_like_my_work,_give_it_a_⭐-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5" alt="Star" />
+    <img src="https://img.shields.io/badge/If_you_like_my_work,_give_it_a_⭐-141321?style=for-the-badge&logo=github&logoColor=fe428e" alt="Star" />
   </a>
 </p>
 
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:fe428e,70:a855f7,100:00d4ff&height=120&section=footer" width="100%" />
