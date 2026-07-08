@@ -133,10 +133,6 @@ I am an innovative AI & Data Science Engineering student bridging the gap betwee
 
 <br /><br />
 
-### 🐍 Contribution Snake Animation
-
-![Snake Animation](https://raw.githubusercontent.com/saadzaveri26/saadzaveri26/output/github-contribution-grid-snake.svg)
-
 ## 🏆 Competitive Programming & Validation
 *   **LeetCode:** Core Algorithm Optimization & Data Structures Solver | Profile: [Saadzaveri26](https://leetcode.com/Saadzaveri26)
 *   **Data Manipulation Specialist:** Extensive background building advanced vector lookups, parsing token pipelines, real-time data transformations with NumPy and Pandas.
