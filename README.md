@@ -4,7 +4,7 @@
 <!-- HERO SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:fe428e,70:a855f7,100:00d4ff&height=230&section=header&text=Muhammed%20Saad%20Zaveri&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20AI%20%26%20Data%20Science&descSize=17&descColor=a9fef7&descAlignY=56&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:fe428e,70:a855f7,100:00d4ff&height=230&section=header&text=Muhammed%20Saad%20Zaveri&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20AI%20and%20Data%20Science&descSize=17&descColor=a9fef7&descAlignY=56&animation=twinkling" width="100%" />
 
 <!-- Animated Typing Banner -->
 <a href="https://git.io/typing-svg">
@@ -401,10 +401,10 @@ An interactive machine learning platform orchestrating complex data pipelines an
 <!-- GitHub Stats & Top Languages -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saadzaveri26&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saadzaveri26&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/saadzaveri26">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=10" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -425,7 +425,7 @@ An interactive machine learning platform orchestrating complex data pipelines an
 <!-- GitHub Trophies -->
 <p>
   <a href="https://github.com/saadzaveri26">
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=saadzaveri26&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img width="98%" src="https://github-trophies.vercel.app/?username=saadzaveri26&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </p>
 
