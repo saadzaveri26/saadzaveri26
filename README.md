@@ -125,19 +125,22 @@ I am an innovative AI & Data Science Engineering student bridging the gap betwee
 
 <div align="center">
 
-<!-- TOKYO NIGHT STATS CARDS (FIXED ENDPOINTS) -->
-<img src="https://github-readme-stats.vercel.app/api?username=saadzaveri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" alt="Top Languages" />
+<!-- TOKYO NIGHT STATS CARDS -->
 
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=saadzaveri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadzaveri26&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&v=1" width="48%" alt="Top Languages" />
 
-<!-- TOKYO NIGHT ACTIVITY GRAPH (FIXED COLOR FROM PINK TO TOKYO NIGHT) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&bg=1a1b26&color=7aa2f7&line=7aa2f7&point=2ac3de&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<br /><br />
 
-<br />
+<!-- FIXED ACTIVITY GRAPH COLOR (TOKYO-NIGHT THEME BINDING) -->
 
-<!-- DYNAMIC STREAK STATS (REPLACED BROKEN SNAKE ANIMATION UNTIL YOUR ACTION RUNS) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadzaveri26&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadzaveri26&theme=tokyo-night&hide_border=true&v=1" width="100%" alt="Activity Graph" />
+
+<br /><br />
+
+<!-- STREAK WIDGET -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadzaveri26&theme=tokyonight&hide_border=true&v=1" width="100%" alt="GitHub Streak" />
 
 </div>
 
