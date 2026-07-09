@@ -408,6 +408,19 @@ An interactive machine learning platform orchestrating complex data pipelines an
   </a>
 </p>
 
+<!-- Profile Summary Cards -->
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadzaveri26&theme=github_dark" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadzaveri26&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadzaveri26&theme=github_dark" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadzaveri26&theme=github_dark" alt="Most Commit Language" />
+</p>
+<p>
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadzaveri26&theme=github_dark" alt="Stats" />
+</p>
+
 <!-- GitHub Streak -->
 <p>
   <a href="https://github.com/saadzaveri26">
@@ -427,6 +440,11 @@ An interactive machine learning platform orchestrating complex data pipelines an
   <a href="https://github.com/saadzaveri26">
     <img width="98%" src="https://github-trophies.vercel.app/?username=saadzaveri26&theme=radical&no-frame=true&no-bg=true&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
+</p>
+
+<!-- Contribution Snake -->
+<p>
+  <img width="98%" src="https://raw.githubusercontent.com/saadzaveri26/saadzaveri26/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 </div>
