@@ -315,10 +315,12 @@ An interactive machine learning platform orchestrating complex data pipelines an
 </tr>
 </table>
 
-<!-- LeetCode Stats Card -->
+<!--
+LeetCode Stats Card - re-enable once problems are solved
 <a href="https://leetcode.com/Saadzaveri26">
   <img src="https://leetcard.jacoblin.cool/Saadzaveri26?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="500"/>
 </a>
+-->
 
 </div>
 
